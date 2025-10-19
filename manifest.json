@@ -1,0 +1,14 @@
+{
+  "visualization": {
+    "id": "custom-linechart",
+    "label": "Custom Line Chart",
+    "script": "https://YOUR_URL/linechart.js",
+    "style": "",
+    "usesSvg": true
+  },
+  "organization": {
+    "name": "My Visuals",
+    "url": "https://YOUR_URL"
+  },
+  "logoUrl": "https://YOUR_URL/logo.png"
+}
